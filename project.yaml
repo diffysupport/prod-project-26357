@@ -1,5 +1,5 @@
 basic:
-    name: 'https://jadeequipmentfinance.com.au'
+    name: jadeequipmentfinance.com.au
     environments:
         production: 'https://jadeequipmentfinance.com.au'
         staging: 'https://staging.jadeequipmentfinance.com.au'
